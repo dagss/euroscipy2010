@@ -1,0 +1,4 @@
+Inventory:
+
+ - setup.py: Example setup.py
+ - gsl: Example wrapper around GSL splines
